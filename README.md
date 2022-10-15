@@ -1,4 +1,4 @@
-https://1.bp.blogspot.com
+<img src="https://www.nicepng.com/png/full/263-2630027_web-design-development-icon-web-development-icons-png.png">
 
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
