@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400"
-
-src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fekaim.in%2Fweb-development%2F&psig=AOvVaw1oYOljr1pGDS-cBYgJpIp3&ust=1665904800299000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjDnpXZ4foCFQAAAAAdAAAAABAI)">
 
 - 🌱 I’m currently learning **Django,Bootstrap**
 
