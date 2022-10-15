@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.monsterindia.com/career-advice/wp-content/uploads/2021/11/web-developer-interview-questions-and-answers.jpg">
 
 - 🌱 I’m currently learning **Django,Bootstrap**
 
