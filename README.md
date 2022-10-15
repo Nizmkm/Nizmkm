@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/
-
--7A4WynwLSM...)](https://rishavchanda.io)
+https://1.bp.blogspot.com
 
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
