@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate Network Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" height="250px" src="https://collectionperformance.com/wp-content/uploads/2023/12/top-10-networking-technology-1.jpg" style="border-radius:10px;">
+<img align="right" alt="Coding" width="300" height="200px" src="https://collectionperformance.com/wp-content/uploads/2023/12/top-10-networking-technology-1.jpg">
 
 - 🌱 I’m currently working **Network Engineer in Future Horizons Company, Saudi Arabia**
 
