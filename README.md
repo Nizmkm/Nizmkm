@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" height="200px" src="https://collectionperformance.com/wp-content/uploads/2023/12/top-10-networking-technology-1.jpg">
 
-- 🌱 I’m currently working **Network Engineer in Future Horizons Company, Saudi Arabia**
+- 🌱 I’m currently working as **Network Engineer in Future Horizons Company, Saudi Arabia**
 
 - 💬 Ask me about **Networking Configurations**
 
