@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED NIZAM K M</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" height="250px" src="https://www.monsterindia.com/career-advice/wp-content/uploads/2021/11/web-developer-interview-questions-and-answers.jpg">
+<img align="right" alt="Coding" width="400" height="250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcollectionperformance.com%2Ftop-5-networking-technologies-in-2024%2F&psig=AOvVaw12v33GOloT4T2rhiPAZXbv&ust=1716547262610000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjd6v7Ko4YDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Django,Bootstrap**
 
